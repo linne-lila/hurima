@@ -1,0 +1,40 @@
+.header {
+    height: 60px;
+
+    display: flex;
+    justify-content: space-between;
+
+
+    background-color: black;
+}
+
+.img-logo {
+    margin-top: 10px;
+}
+
+.search {
+    margin-top: 20px;
+}
+
+.button-content {
+    text-align: center;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.login,
+.mypage {
+    margin-right: 20px;
+
+    text-decoration: none;
+
+    color: white;
+}
+
+.logout{
+    /* display: inline-block; */
+    border: none;
+
+    color: white;
+    background-color: black;
+}

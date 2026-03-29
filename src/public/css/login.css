@@ -1,0 +1,43 @@
+.login-form__heading {
+    margin-top: 5%;
+    margin-left: 47%;
+}
+
+.form__group {
+    margin-left: 30%;
+    margin-top: 20px;
+}
+
+.form__label--item {
+    font-weight: bold;
+}
+
+.text {
+    width: 60%;
+    height: 40px;
+}
+
+.form__button-submit {
+    border: none;
+    border-radius: 3px;
+
+    margin-left: 30%;
+    margin-top: 80px;
+    width: 42%;
+    height: 40px;
+
+    color: white;
+    background: rgb(253, 54, 74);
+}
+
+.register__link {
+    margin-top: 20px;
+}
+
+.register__button-submit {
+    margin-left: 46%;
+
+    text-decoration: none;
+
+    color: blue;
+}
