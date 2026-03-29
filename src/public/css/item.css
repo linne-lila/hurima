@@ -1,0 +1,53 @@
+.all-contents{
+    display: flex;
+    justify-content: space-evenly;
+
+    margin-top: 50px;
+}
+
+.right-content{
+    /* display: block; */
+}
+
+.purchase{
+    text-decoration: none;
+
+    padding: 5px 100px;
+    border-radius: 3px;
+
+    color: white;
+    background: rgb(253, 87, 87);
+}
+
+.logo-content{
+    display: flex;
+}
+
+.heart{
+    margin-left: 30px;
+}
+
+.hukidasi{
+    margin-left: 40px;
+}
+
+.condition-comment{
+    display: inline;
+
+    margin-left: 50px;
+}
+
+.content-comment{
+    color: gray;
+}
+
+.button-comment{
+    border: none;
+    
+    margin-top: 10px;
+    padding: 5px 100px;
+    border-radius: 3px;
+    
+    color: white;
+    background: rgb(253, 87, 87);
+}

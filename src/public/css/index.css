@@ -1,0 +1,41 @@
+.top-contents{
+    margin-top: 30px;
+
+    border-bottom: 1px solid black;
+}
+
+.top-page{
+    margin-left: 80px;
+
+    text-decoration: none;
+}
+
+.my-list {
+    margin-left: 80px;
+
+    text-decoration: none;
+}
+
+.item-contents{
+    display: flex;
+    flex-wrap: wrap;
+
+
+    margin: 50px;
+}
+
+.item-content{
+    margin-right: 50px;
+    margin-bottom: 20px;
+}
+
+.img-content{
+    border-radius: 5px;
+}
+
+.detail-content{
+    display: flex;
+    position: relative;
+
+    bottom: 10px;
+}
